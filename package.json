@@ -1,4 +1,5 @@
 {
+  "name": "rtl-nextjs-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,17 +10,17 @@
   },
   "dependencies": {
     "next": "latest",
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "5.16.4",
-    "@testing-library/react": "13.2.0",
-    "@testing-library/user-event": "14.2.0",
-    "@types/react": "18.0.9",
+    "@testing-library/jest-dom": "5.16.5",
+    "@testing-library/react": "13.4.0",
+    "@testing-library/user-event": "14.4.3",
+    "@types/react": "18.0.27",
     "@types/testing-library__jest-dom": "5.14.5",
     "jest": "28.1.0",
     "jest-environment-jsdom": "28.1.0",
-    "typescript": "4.6.4"
+    "typescript": "4.9.5"
   }
 }
