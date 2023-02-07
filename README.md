@@ -29,3 +29,6 @@ $ npm run build / yarn build
 ```
 $ npm test
 ```
+
+## Sources
+[Testing Next.js apps with Jest](https://blog.logrocket.com/testing-next-js-apps-jest/)
